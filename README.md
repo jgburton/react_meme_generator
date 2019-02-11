@@ -14,3 +14,5 @@ Run Webpack in watch-mode to continually compile the JavaScript as you work:
 ```
 $ npm run watch
 ```
+## Screenshot
+![alt text](Portfolio/source/images/meme_generator.png "Screenshot of react project")
